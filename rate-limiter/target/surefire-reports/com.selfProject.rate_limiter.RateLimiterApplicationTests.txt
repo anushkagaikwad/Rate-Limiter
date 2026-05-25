@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.selfProject.rate_limiter.RateLimiterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.694 s -- in com.selfProject.rate_limiter.RateLimiterApplicationTests
